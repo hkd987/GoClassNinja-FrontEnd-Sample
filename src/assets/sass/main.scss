@@ -1,0 +1,23 @@
+$footer-background-color: #dfe6e9;
+// $navbar-background-color: #dfe6e9;
+$info: #0984e3;
+$warning: #fdcb6e;
+$link: #0984e3;
+$danger: #d63031;
+$primary: #00b894;
+$success: #00b894;
+
+@import "~bulma/bulma";
+
+.is-river {
+  background-color: #636e72;
+  color: white;
+}
+.is-river:hover {
+  color: white;
+  background-color: #2d3436;
+}
+
+.bright-day:hover {
+  background-color: #74b9ff;
+}
